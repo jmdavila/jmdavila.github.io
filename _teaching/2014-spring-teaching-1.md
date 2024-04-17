@@ -1,4 +1,4 @@
----
+D---
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -10,11 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+EDP
 ======
 
-Heading 2
+Métodos Matemáticos
 ======
 
-Heading 3
+Mecánica Cuántica
 ======

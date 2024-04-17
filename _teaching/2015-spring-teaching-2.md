@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Cursos Impartidos"
 collection: teaching
-type: "Workshop"
+type: "Curso"
 permalink: /teaching/2015-spring-teaching-1
 venue: "UAEMéx, Física"
 date: 2024
 location: "Toluca, México"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+El material expuesto reune parte de mis notas personales para impartir clase, así como el material elaborado por mis alumnos. Cualquier uso de este material por favor hacer referencia a la fuente.
 
 EDP
 ======
